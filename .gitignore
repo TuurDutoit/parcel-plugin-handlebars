@@ -1,5 +1,6 @@
 .idea
 .vscode
+.sfdx
 .cache
 dist
 .DS_Store
