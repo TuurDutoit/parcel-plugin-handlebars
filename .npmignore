@@ -1,6 +1,7 @@
 .git
 .idea
 .vscode
+.sfdx
 examples
 .DS_Store
 Desktop.ini

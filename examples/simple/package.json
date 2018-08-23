@@ -3,8 +3,8 @@
   "name": "simple-example",
   "version": "1.0.0-beta.1",
   "scripts": {
-    "build": "parcel build pages/index.hbs --no-cache --public-url ./",
-    "start": "parcel pages/index.hbs --no-cache",
+    "build": "parcel build pages/index.hbs",
+    "start": "parcel pages/index.hbs",
     "serve": "serve -s dist"
   },
   "devDependencies": {
